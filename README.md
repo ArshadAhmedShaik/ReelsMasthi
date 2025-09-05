@@ -22,6 +22,8 @@ Reel Masti is a web application that lets users create Instagram-style reels by 
 
 ## Getting Started
 
+For Demo -- download and watch demo.mp4 provided
+
 1. **Install dependencies:**
    ```sh
    pip install flask python-dotenv elevenlabs
